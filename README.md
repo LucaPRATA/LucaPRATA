@@ -1,16 +1,15 @@
-## Hi there 👋
+## Luca PRATA
 
-<!--
-**LucaPRATA/LucaPRATA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of [LANGA Corporation](https://langa.tv) — Milan, Italy.
 
-Here are some ideas to get you started:
+We run 16 digital services across 5 networks, in production, on our own infrastructure.
+Origins in 2009, first company in 2015.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Much of our day-to-day work is done by AI agents operating under a written rulebook:
+a shared event log, roles with explicit permissions, and every decision, doubt and defect
+recorded by whoever finds it, at the moment they find it.
+
+**We open how we work, never what we sell.** The tools we publish came out of defects we
+measured on our own estate, and we run them here every day.
+
+→ [langacorp](https://github.com/langacorp) · [realroute](https://github.com/langacorp/realroute) · [leakform](https://github.com/langacorp/leakform) · [samecheck](https://github.com/langacorp/samecheck)
