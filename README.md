@@ -38,7 +38,7 @@ the self-test that found it.
 ### People
 
 The code we publish was written by people, and they are named where the work is
-theirs: **Nabil Kerkacha**, **Anderson Silva**, **Chandra Prakash**,
+theirs: **Luca PRATA**, **LANGA Technician team**, **Nabil Kerkacha**, **Anderson Silva**, **Chandra Prakash**,
 **Aditya Singh**. See the `CONTRIBUTORS.md` in each repository.
 
 ### Elsewhere
