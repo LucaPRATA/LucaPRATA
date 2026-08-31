@@ -24,8 +24,8 @@ People decide. The agents carry the work.
 Each one came out of a defect we measured on our own estate, and each carries
 the self-test that found it.
 
-| | |
-|- Name -|- What is it? -|
+| Name |  What is it? |
+|---|---|
 | [kemproof](https://github.com/langacorp/kemproof) | attest an ML-KEM-768 key exchange — and say only what that proves |
 | [leakform](https://github.com/langacorp/leakform) | find secrets in a git repository by shape, across every ref |
 | [realroute](https://github.com/langacorp/realroute) | check a route exists by content, not by status code |
