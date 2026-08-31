@@ -3,7 +3,7 @@
 Founder of [LANGA Corporation](https://langa.tv) — offices in Milan, Alba,
 Brescia and Cuneo, Italy. Origins in 2009, first company in 2015.
 
-We run **16 digital services across 5 networks**, in production, on our own
+We run **digital services across our networks**, in production, on our own
 infrastructure.
 
 ### What we actually build
